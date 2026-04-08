@@ -1,6 +1,6 @@
 Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"PCB","To connect everything together",1,8.43,"","JLCPCB"
-"4 of 120 ohm resistor for the green leds","To make it so that its safe for the XIAO RP2040, Also got 2 extra just in case I mess something up",1,0.46,"https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT120R/1741278","Digikey"
+"PCB","To connect everything together",1,5.31,"","JLCPCB"
+"10 of 120 ohm resistor for the green leds","To make it so that its safe for the XIAO RP2040, Also got 10 instead of 2 because it was cheaper",1,0.26,"https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT120R/1741278","Digikey"
 "4 of 22 ohm resistor for the blue leds","To make it so that its safe for the XIAO RP2040, Also got 2 extra just in case I mess something up",1,0.69,"https://www.digikey.com/en/products/detail/yageo/PNP1WVFTF52-22R/4135164","Digikey"
 "2 blue leds","To show color",1,1.18,"https://www.digikey.com/en/products/detail/qt-brightek-qtb/QBL8IB60D/9354289","Digikey"
 "2 green leds","To show color",1,0.34,"https://www.digikey.com/en/products/detail/liteon/LTL-4233/217580","Digikey"
