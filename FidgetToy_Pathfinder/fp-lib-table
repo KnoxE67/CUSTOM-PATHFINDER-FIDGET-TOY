@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pathfinder_footprints")(type "KiCad")(uri "${KICAD9_FOOTPRINT_DIR}/Pathfinder_project_footprints.pretty")(options "")(descr ""))
+  (lib (name "Pictures")(type "KiCad")(uri "${KIPRJMOD}/Files/Pictures.pretty")(options "")(descr ""))
+)

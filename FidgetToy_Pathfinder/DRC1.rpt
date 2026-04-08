@@ -1,0 +1,91 @@
+** Drc report for FidgetToy_Pathfinder.kicad_pcb **
+** Created on 2026-04-08T10:02:17-0700 **
+
+** Found 26 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(164.1500 mm, 55.7500 mm): Via [LED3] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(173.5500 mm, 66.5500 mm): Via [LED3] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(172.0500 mm, 63.2000 mm): Via [LED3] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(163.6500 mm, 51.8500 mm): Via [LED3] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(160.3000 mm, 63.2500 mm): Via [LED2] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(162.5500 mm, 65.5500 mm): Via [LED2] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(145.4000 mm, 51.7500 mm): Via [LED2] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(146.8000 mm, 55.0000 mm): Via [LED2] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(127.7500 mm, 51.8000 mm): Via [LED1] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual -0.2000 mm)
+    Rule: board setup constraints; error
+    @(128.2500 mm, 54.0500 mm): Via [LED1] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(164.1500 mm, 55.7500 mm): Via [LED3] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(173.5500 mm, 66.5500 mm): Via [LED3] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(172.0500 mm, 63.2000 mm): Via [LED3] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(163.6500 mm, 51.8500 mm): Via [LED3] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(160.3000 mm, 63.2500 mm): Via [LED2] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(162.5500 mm, 65.5500 mm): Via [LED2] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(145.4000 mm, 51.7500 mm): Via [LED2] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(146.8000 mm, 55.0000 mm): Via [LED2] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(127.7500 mm, 51.8000 mm): Via [LED1] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.5000 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(128.2500 mm, 54.0500 mm): Via [LED1] on F.Cu - B.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.8000 mm, 42.3000 mm): Rectangle on Edge.Cuts
+    @(195.4300 mm, 70.9300 mm): Circle of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.8000 mm, 42.3000 mm): Rectangle on Edge.Cuts
+    @(196.5810 mm, 57.4760 mm): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.8000 mm, 42.3000 mm): Rectangle on Edge.Cuts
+    @(195.6710 mm, 66.4750 mm): Segment of U1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(176.6210 mm, 53.0900 mm): Segment of U1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(176.6210 mm, 70.8700 mm): Segment of U1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(174.7160 mm, 68.9650 mm): Segment of U1 on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

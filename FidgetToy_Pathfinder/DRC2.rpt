@@ -1,0 +1,121 @@
+** Drc report for FidgetToy_Pathfinder.kicad_pcb **
+** Created on 2026-04-08T10:50:29-0700 **
+
+** Found 35 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(190.7500 mm, 68.5200 mm): Arc on Edge.Cuts
+    @(195.6710 mm, 54.9950 mm): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(195.7500 mm, 47.7500 mm): Segment on Edge.Cuts
+    @(195.6710 mm, 66.4750 mm): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(195.7500 mm, 47.7500 mm): Segment on Edge.Cuts
+    @(196.5810 mm, 57.4760 mm): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(190.7500 mm, 68.5200 mm): Arc on Edge.Cuts
+    @(195.4300 mm, 70.9300 mm): Circle of U1 on B.Silkscreen
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(185.5100 mm, 49.1750 mm): PCB text 'Fidget Toy
+Created by
+Knox Ewaniuk' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(190.2961 mm, 70.0116 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(190.2105 mm, 69.4091 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(190.3939 mm, 69.3170 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(189.9602 mm, 69.2966 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(190.8756 mm, 69.2500 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(189.7223 mm, 69.1854 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(190.3903 mm, 69.1311 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.1574 mm, 68.9365 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.2743 mm, 68.8901 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.0583 mm, 68.9358 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(190.5136 mm, 68.9682 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.3208 mm, 68.9707 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.3467 mm, 68.8906 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.1321 mm, 68.8506 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.1812 mm, 68.8777 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.0519 mm, 68.8440 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.2228 mm, 68.8360 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(185.3388 mm, 68.8041 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(190.3891 mm, 55.0809 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(187.5086 mm, 55.0838 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(187.9741 mm, 55.0527 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(187.3069 mm, 54.9751 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(187.5190 mm, 54.9726 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(189.8774 mm, 54.8950 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(188.1137 mm, 54.8976 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(187.9431 mm, 54.8355 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(187.4283 mm, 54.4678 mm): Polygon of G*** on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(174.7160 mm, 68.9650 mm): Segment of U1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(176.6210 mm, 53.0900 mm): Segment of U1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(176.6210 mm, 70.8700 mm): Segment of U1 on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
