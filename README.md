@@ -4,12 +4,12 @@ Building a Custom Pathfinder Fidget Toy
 # What?
 
 So this project is about making something clean, cool, and something Im going to use for a long time.
-It uses a PCB, a XIAO RP2040, Two Blue Keds, Two Green Leds, Two 120 ohm Resistors for the Green Leds, and Two 22 ohm Resistors for the Blue Leds
+It uses a PCB, a XIAO RP2040, Two Blue Leds, Two Green Leds, Two 120 ohm Resistors for the Green Leds, and Two 22 ohm Resistors for the Blue Leds
 
 # Why?
 
 So I did the project so that I could learn how to build something quick, cool, nice, 
-and something I would actual use unlike the Blueprint, Custom Hackpad and RP2040 DevBoard.
+and something I would actual use unlike the Blueprint Projects: Custom Hackpad and RP2040 DevBoard.
 I also did this project because I was bored and the image generator for the other project
 was out of credits.
 
