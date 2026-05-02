@@ -36,7 +36,23 @@ Here is a photo of my code:
 ![Screenshot 2026-04-08 at 12.08.44 PM](https://stasis.hackclub-assets.com/images/1775675330081-qgwsx9.png)
 
 
+# 5/2/2026 7 PM - Soldered all the parts and made it look clean
 
+_Time spent: 1.083333333333333h_
+
+Soldered all the parts and made it look clean by cutting the extra legs and testing to make sure it worked.
+
+Here is some photos of the completed project:
+
+![Image1](https://stasis.hackclub-assets.com/images/1777751058257-yb45i8.jpg)
+
+![Image2](https://stasis.hackclub-assets.com/images/1777751058308-6w9sco.jpg)
+
+![Image3](https://stasis.hackclub-assets.com/images/1777751058544-306qix.jpg)
+
+![image](https://stasis.hackclub-assets.com/images/1777751058257-yb45i8.jpg)
+![image](https://stasis.hackclub-assets.com/images/1777751058308-6w9sco.jpg)
+![image](https://stasis.hackclub-assets.com/images/1777751058544-306qix.jpg)
 
 
 
